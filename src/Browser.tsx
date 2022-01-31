@@ -17,7 +17,7 @@ function Browser() {
         <>
         <div className='flex-row'>
         <section className='section'>
-            <h1 className="text-center text-4xl h1
+            <h1 className="text-center text-4xl h1 text-blue-700
                         rounded-l-lg p-4
                         border-t mr-0 
                         border-b border-l font italic"> Mini Browser </h1>
